@@ -1,0 +1,3 @@
+openai = 'YOUR OPENAI API KEY'
+token= 'YOUR NOTION TOKEN V2'
+page_id = 'YOUR NOTION PAGE ID'
