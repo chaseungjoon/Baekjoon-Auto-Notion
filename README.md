@@ -14,8 +14,3 @@
 #
 
 [사용법은 여기로](https://velog.io/@cktmdwns604/%EB%B0%B1%EC%A4%80-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B3%A0-Notion%EC%97%90-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%BB%A4%EB%B0%8B%ED%95%98%EA%B8%B0)
-
-
-<img width="1311" alt="github1" src="https://github.com/chaseungjoon/Baekjoon_Auto_Notion/assets/101884270/3b00c776-e7c3-4f89-985d-0d518ceab9db">
-<img width="1310" alt="github2" src="https://github.com/chaseungjoon/Baekjoon_Auto_Notion/assets/101884270/a571f7ed-a970-413a-a4f1-03af7fa68d39">
-<img width="1306" alt="github3" src="https://github.com/chaseungjoon/Baekjoon_Auto_Notion/assets/101884270/a3532a38-9ef0-4c57-804f-822a0913316c">
