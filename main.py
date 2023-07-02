@@ -10,7 +10,7 @@ from notion.block import PageBlock
 from notion.block import TextBlock
 from notion.block import CalloutBlock
 
-code_path = '/Users/chaseungjun/Desktop/Code/Python/Baekjoon'
+code_path = 'YOUR CODE DIRECTORY'
 openai.api_key = keys.openai
 notion_token_v2 = keys.token
 notion_page_id = keys.page_id
