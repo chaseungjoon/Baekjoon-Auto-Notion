@@ -1,4 +1,4 @@
 openai = 'YOUR OPENAI API KEY'
 token= 'YOUR NOTION TOKEN V2'
 page_id = 'YOUR NOTION PAGE ID'
-path = 'PATH TO YOUR CODE DIR'
+code_path = 'PATH TO YOUR CODE DIR'
