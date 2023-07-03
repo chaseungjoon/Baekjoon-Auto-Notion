@@ -40,7 +40,7 @@ notepad keys.py
 
 🍎Mac
 ```
-nano keys.py
+open keys.py
 ```
 
 #### 6) 문제 풀고 Code path에 문제번호로 저장 (ex. 1016.py)
